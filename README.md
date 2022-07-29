@@ -1,6 +1,6 @@
 # Learning Live Stream
 
-Nothing more than a live stream of what I'm learning about
+Nothing more than a live stream of what I'm learning
 
 ## 7/28/2022
 
