@@ -27,7 +27,7 @@ Nothing more than a live stream of what I'm learning
 * [Automated data pipeline using Ceph notifications and KNative Serving](https://medium.com/analytics-vidhya/automated-data-pipeline-using-ceph-notifications-and-kserving-5e1e9b996661)
 * [Deploying your First FastAPI Application in OpenShift](https://frank-ceballos.medium.com/deploying-your-first-fastapi-application-in-openshift-857cee7277f9)
 * [Samsung, Red Hat to Work on Linux Drivers for the Metaverse](https://thenewstack.io/samsung-red-hat-to-work-on-linux-drivers-for-future-tech/)
-* [https://developer.ibm.com/tutorials/multitenancy-and-role-based-access-control/](https://developer.ibm.com/tutorials/multitenancy-and-role-based-access-control/)
+* [Multitenancy and role-based access control in Red Hat OpenShift](https://developer.ibm.com/tutorials/multitenancy-and-role-based-access-control/)
 * [Machine Learning Operations (MLOps): Overview, Definition, and Architecture](https://arxiv.org/pdf/2205.02302.pdf)
 * [Just Enough Spark! Core Concepts Revisited !!](https://www.linkedin.com/pulse/just-enough-spark-core-concepts-revisited-deepak-rajak/)
 * [Connect Red Hat AMQ Streams to your Red Hat OpenShift 4 monitoring stack](https://developers.redhat.com/blog/2021/04/19/connect-amq-streams-to-your-red-hat-openshift-4-monitoring-stack#set_up_your_amq_streams_dashboard_in_openshift_4)
@@ -40,3 +40,4 @@ Nothing more than a live stream of what I'm learning
 * [Managed Kafka services: Which is right for you?](https://developers.redhat.com/articles/2022/05/24/managed-kafka-services-which-right-you#)
 * [Create AWS resources with Kubernetes and Operators](https://developers.redhat.com/articles/2022/05/24/create-aws-resources-kubernetes-and-operators#what_s_next_)
 * [Approaches to implementing multi-tenancy in SaaS applications](https://developers.redhat.com/articles/2022/05/09/approaches-implementing-multi-tenancy-saas-applications)
+* [Python packages upload your AWS keys, env vars, secrets to the web](https://blog.sonatype.com/python-packages-upload-your-aws-keys-env-vars-secrets-to-web)
