@@ -27,6 +27,7 @@ Nothing more than a live stream of what I'm learning
 * [Automated data pipeline using Ceph notifications and KNative Serving](https://medium.com/analytics-vidhya/automated-data-pipeline-using-ceph-notifications-and-kserving-5e1e9b996661)
 * [Deploying your First FastAPI Application in OpenShift](https://frank-ceballos.medium.com/deploying-your-first-fastapi-application-in-openshift-857cee7277f9)
 * [Samsung, Red Hat to Work on Linux Drivers for the Metaverse](https://thenewstack.io/samsung-red-hat-to-work-on-linux-drivers-for-future-tech/)
+* [https://developer.ibm.com/tutorials/multitenancy-and-role-based-access-control/](https://developer.ibm.com/tutorials/multitenancy-and-role-based-access-control/)
 * [Machine Learning Operations (MLOps): Overview, Definition, and Architecture](https://arxiv.org/pdf/2205.02302.pdf)
 * [Just Enough Spark! Core Concepts Revisited !!](https://www.linkedin.com/pulse/just-enough-spark-core-concepts-revisited-deepak-rajak/)
 * [Connect Red Hat AMQ Streams to your Red Hat OpenShift 4 monitoring stack](https://developers.redhat.com/blog/2021/04/19/connect-amq-streams-to-your-red-hat-openshift-4-monitoring-stack#set_up_your_amq_streams_dashboard_in_openshift_4)
