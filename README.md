@@ -4,6 +4,8 @@ Nothing more than a live stream of what I'm learning
 
 ## 8/1/2022
 
+* [Amazon's Snowmobile will let you upload stuff by the truckload – literally](https://www.theguardian.com/technology/2016/dec/05/amazon-snowmobile-upload-truckload)
+* [State of workloads adoption on containers on Kubernetes](https://www.redhat.com/rhdc/managed-files/cl-state-workloads-containers-kubernetes-analyst-paper-f29224-202107-en_0.pdf)
 * [Git workflows: Best practices for GitOps deployments](https://developers.redhat.com/articles/2022/07/20/git-workflows-best-practices-gitops-deployments#separate_your_repositories)
 * [The two-pizza rule and the secret of Amazon's success](https://www.theguardian.com/technology/2018/apr/24/the-two-pizza-rule-and-the-secret-of-amazons-success)
 * [Python packages upload your AWS keys, env vars, secrets to the web](https://blog.sonatype.com/python-packages-upload-your-aws-keys-env-vars-secrets-to-web)
@@ -21,7 +23,6 @@ Nothing more than a live stream of what I'm learning
 
 ## 7/28/2022
 
-* [Amazon's Snowmobile will let you upload stuff by the truckload – literally](https://www.theguardian.com/technology/2016/dec/05/amazon-snowmobile-upload-truckload)
 * [Scan To Pay in 2 Minutes](https://www.youtube.com/watch?v=XS8ACikD2qs) - Video
 * [Scaling An ML Team (0–10 People)](https://medium.com/aquarium-learning/scaling-an-ml-team-0-10-people-ae024f3a89f3)
 * [Demystifying Machine Learning in Production: Reasoning about a Large-Scale ML Platform](https://www.usenix.org/conference/srecon21/presentation/mcglohon) - Video
