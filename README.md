@@ -4,6 +4,7 @@ Nothing more than a live stream of what I'm learning
 
 ## 8/1/2022
 
+* [Multi-cloud storage strategies for SaaS applications](https://developers.redhat.com/articles/2022/06/23/multi-cloud-storage-strategies-saas-applications#)
 * [Amazon's Snowmobile will let you upload stuff by the truckload – literally](https://www.theguardian.com/technology/2016/dec/05/amazon-snowmobile-upload-truckload)
 * [State of workloads adoption on containers on Kubernetes](https://www.redhat.com/rhdc/managed-files/cl-state-workloads-containers-kubernetes-analyst-paper-f29224-202107-en_0.pdf)
 * [Git workflows: Best practices for GitOps deployments](https://developers.redhat.com/articles/2022/07/20/git-workflows-best-practices-gitops-deployments#separate_your_repositories)
@@ -49,8 +50,11 @@ Nothing more than a live stream of what I'm learning
 * [Software Engineering Best Practices With Databricks Notebooks](https://databricks.com/blog/2022/06/25/software-engineering-best-practices-with-databricks-notebooks.html)
 * [SaaS security in Kubernetes environments: A layered approach](https://developers.redhat.com/articles/2022/07/27/saas-security-kubernetes-environments-layered-approach#cluster_security_on_kubernetes_and_red_hat_openshift)
 * [How to run VS Code with OpenShift Dev Spaces](https://developers.redhat.com/articles/2022/07/12/how-run-vs-code-openshift-dev-spaces#what_s_the_roadmap_for_including_visual_studio_code_in_openshift_dev_spaces_)
-* [Multi-cloud storage strategies for SaaS applications](https://developers.redhat.com/articles/2022/06/23/multi-cloud-storage-strategies-saas-applications#)
 * [Best practices for successful DevSecOps](https://developers.redhat.com/articles/2022/06/15/best-practices-successful-devsecops#further_best_practices)
 * [Managed Kafka services: Which is right for you?](https://developers.redhat.com/articles/2022/05/24/managed-kafka-services-which-right-you#)
 * [Create AWS resources with Kubernetes and Operators](https://developers.redhat.com/articles/2022/05/24/create-aws-resources-kubernetes-and-operators#what_s_next_)
 * [Approaches to implementing multi-tenancy in SaaS applications](https://developers.redhat.com/articles/2022/05/09/approaches-implementing-multi-tenancy-saas-applications)
+
+## Where am I finding content?
+
+[Awesome MLOps: A curated list of references for MLOPs](https://github.com/visenger/awesome-mlops)
