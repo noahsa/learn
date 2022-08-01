@@ -8,7 +8,7 @@ Nothing more than a live stream of what I'm learning
 * [The two-pizza rule and the secret of Amazon's success](https://www.theguardian.com/technology/2018/apr/24/the-two-pizza-rule-and-the-secret-of-amazons-success)
 * [Python packages upload your AWS keys, env vars, secrets to the web](https://blog.sonatype.com/python-packages-upload-your-aws-keys-env-vars-secrets-to-web)
 * [Samsung, Red Hat to Work on Linux Drivers for the Metaverse](https://thenewstack.io/samsung-red-hat-to-work-on-linux-drivers-for-future-tech/)
-* [Snap: Journey of a Snap on Snapchat Using AWS](https://www.youtube.com/watch?v=Cgv0kfp_6xQ)
+* [Snap: Journey of a Snap on Snapchat Using AWS](https://www.youtube.com/watch?v=Cgv0kfp_6xQ) - Video
 * [What is Document AI?](https://www.youtube.com/watch?v=F_jyoe1lQhg) - Video
 * [Elon Musk Announces 3 NEW Teslas For 2023](https://www.youtube.com/watch?v=rFK6VjTTo18) - Video
 
@@ -19,7 +19,7 @@ Nothing more than a live stream of what I'm learning
 * [Automating JupyterHub deployments with ArgoCD](https://www.youtube.com/watch?v=p8WGxiH55lE) - Video
 * [Scalability in Autonomous Driving](https://www.youtube.com/watch?v=g2R2T631x7k) - Video
 
-## 7/28/2022∂
+## 7/28/2022
 
 * [Amazon's Snowmobile will let you upload stuff by the truckload – literally](https://www.theguardian.com/technology/2016/dec/05/amazon-snowmobile-upload-truckload)
 * [Scan To Pay in 2 Minutes](https://www.youtube.com/watch?v=XS8ACikD2qs) - Video
