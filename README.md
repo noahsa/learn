@@ -2,6 +2,19 @@
 
 Nothing more than a live stream of what I'm learning
 
+## 8/2/2022
+
+* [Scaling Your Workloads with Databricks Serverless](https://www.youtube.com/watch?v=rJDkfRPUebw) - Video
+* [What is Apache Pinot? (and User-Facing Analytics)](https://www.youtube.com/watch?v=_lqdfq2c9cQ) - Video
+* [Building a Lakehouse for Data Science at DoorDash](https://www.youtube.com/watch?v=8C7F3yb6gKg) - Video
+* [MLOps explained | Machine Learning Essentials](https://www.youtube.com/watch?v=ZVWg18AXXuE) - Video
+* [MLOps at DoorDash](https://www.youtube.com/watch?v=cLkTHRkB0JQ) - Video
+* [Carbon Lang… The C++ killer?](https://www.youtube.com/watch?v=-bHK0qmp06c) - Video
+* [Decision forests in TensorFlow](https://www.youtube.com/watch?v=5qgk9QJ4rdQ) - Video
+* [Kafka on Kubernetes with OpenShift Operators (Strimzi)](https://www.youtube.com/watch?v=3Acy_0e4mfs) - Video
+* [IT HAPPENED! Elon Musk's $10000 House FINALLY Hitting The Market](https://www.youtube.com/watch?v=o7yQOG4Ty-s) - Video
+* [Elon Musk Announces Big News For The Boring Company](https://www.youtube.com/watch?v=rTe3W_ZhaVc) - Video
+
 ## 8/1/2022
 
 * [Multi-cloud storage strategies for SaaS applications](https://developers.redhat.com/articles/2022/06/23/multi-cloud-storage-strategies-saas-applications#)
