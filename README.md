@@ -2,8 +2,19 @@
 
 Nothing more than a live stream of what I'm learning
 
+## 8/3/2022
+
+* [Raspberry Pi versus AWS // How to host your website on the RPi4](https://www.youtube.com/watch?v=QdHvS0D1zAI) - Video
+* [How to get a Million YouTube Subscribers in 100 Seconds](https://www.youtube.com/watch?v=j_q0D_jbMk8) - Video
+* [Moving Towards AI at Shell - Daniel Jeavons (Shell Research Ltd.)](https://www.youtube.com/watch?v=ADCkWi7hH7c) - Video
+* [Java for the Haters in 100 Seconds](https://www.youtube.com/watch?v=m4-HM_sCvtQ) - Video
+* [TensorFlow in 100 Seconds](https://www.youtube.com/watch?v=i8NETqtGHms) - Video
+* [Databricks CEO: AI Will Eat All Of of Software](https://www.youtube.com/watch?v=BvFuDjhj0y8) - Video
+* [Introducing Spark Connect – The Power of Apache Spark, Everywhere](https://databricks.com/blog/2022/07/07/introducing-spark-connect-the-power-of-apache-spark-everywhere.html)
+
 ## 8/2/2022
 
+* [MLOps on Databricks: A How-To Guide](https://www.youtube.com/watch?v=9s29LKfEFjQ) - Video
 * [Scaling Your Workloads with Databricks Serverless](https://www.youtube.com/watch?v=rJDkfRPUebw) - Video
 * [What is Apache Pinot? (and User-Facing Analytics)](https://www.youtube.com/watch?v=_lqdfq2c9cQ) - Video
 * [Building a Lakehouse for Data Science at DoorDash](https://www.youtube.com/watch?v=8C7F3yb6gKg) - Video
